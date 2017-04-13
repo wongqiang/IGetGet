@@ -1,8 +1,8 @@
 {
-  "name": "anyproxy",
+  "name": "igetget",
   "version": "1.0.0",
-  "description": "anyproxy",
-  "main": "rule.js",
+  "description": "articles anyproxy spider",
+  "main": "spider.js",
   "dependencies": {
   },
   "devDependencies": {
